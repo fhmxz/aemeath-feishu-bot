@@ -1,0 +1,28 @@
+# ── 凭证：绝对不能提交 ──────────────────────
+config.py
+
+# ── 运行时数据：你自己的聊天内容，别提交 ──────
+memory.json
+memory.bak.json
+群记忆.json
+群记忆.bak.json
+群昵称.json
+图库.json
+记忆.json
+主动.json
+owner.json
+_seen.json
+*.log
+*.log.old
+
+# ── 图片库存 ────────────────────────────────
+# 自己攒的表情包/图，来源和版权往往说不清，别进仓库。
+images/
+
+# ── 备份与临时文件 ──────────────────────────
+*.bak
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store

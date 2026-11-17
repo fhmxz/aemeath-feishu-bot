@@ -1,0 +1,12 @@
+# 仓库内统一 LF，检出到 Windows 时脚本仍是 CRLF
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.vbs text eol=crlf
+
+# 图片按二进制处理，别做行尾转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
