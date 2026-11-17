@@ -206,4 +206,8 @@ images/库存/  图片库存
 ## 致谢
 
 - [lark-oapi](https://github.com/larksuite/oapi-sdk-python)：飞书官方 Python SDK，长连接这块省了很多事。
-- DeepSeek：便宜，够用，能扛住一天几千轮的 persona 对话。
+- DeepSeek：便宜，够用，能扛住一天几千轮的 persona 对话，以及对该程序的开发。
+- gpt-6.1-sol：对程序开发的支持。
+- gpt-6-astra：对人格词进行写作。
+- 最后感谢库洛游戏创造出爱弥斯这个角色。
+- PS：deepseek-v4.1-flash在角色扮演还是有局限性，可以考虑使用gpt系列模型。
